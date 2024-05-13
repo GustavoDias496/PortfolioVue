@@ -1,0 +1,6 @@
+{
+    "projects": [
+        {"id": 1, "srcPath": "https://i.imgur.com/6KPKt7E.png", "name": "SifSoft Júnior", "link": "https://sifsoft.com.br/", "about": "Na Empresa Júnior, ocupei o cargo de Diretor de Projetos e desenvolvedor BackEnd. Atuei em diversos projetos desde o levantamento de requisitos até o deploy das aplicações, contribuindo de forma significativa para seu sucesso. Trabalhei com tecnologias como React.js, Node.js, Express.js, Fastify, Prisma, TypeScript e participei ativamente na criação e modelagem de bancos de dados. Além disso, fui responsável pelo deploy completo das aplicações, concluindo assim um ciclo integral de desenvolvimento e entrega."},
+        {"id": 2, "srcPath": "https://i.imgur.com/f2yXkqz.png", "name": "DoutorIf","link": "", "about": "Projeto de TCC que envolve o desenvolvimento de uma aplicação para relatar ocorrências dentro do campus, abrangendo uma ampla gama de problemas, como bullying, questões de infraestrutura, assédio, segurança, entre outros. A aplicação é composta por um módulo web administrativo desenvolvido em React.js, um aplicativo móvel em React Native e um backend implementado em Node.js utilizando Express, Prisma e PostgreSQL para a camada de persistência de dados."}
+    ]
+}

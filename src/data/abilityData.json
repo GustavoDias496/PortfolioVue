@@ -1,0 +1,50 @@
+{
+    "languages": [
+        {
+            "name": "Javascript", 
+            "srcPath": "https://i.imgur.com/mBoQhqk.png"
+        },
+        {
+            "name": "Java", 
+            "srcPath": "https://i.imgur.com/9YAGeNU.png"
+        },
+        {
+            "name": "C", 
+            "srcPath": "https://i.imgur.com/qzbxfuB.png"
+        },
+        {
+            "name": "Python", 
+            "srcPath": "https://i.imgur.com/iZOCzvU.png"
+        }
+    ],
+    
+    "frameworks": [
+        {
+            "name": "React Js", 
+            "srcPath": "https://i.imgur.com/OOmqNb9.png"
+        },
+        {
+            "name": "React Native", 
+            "srcPath": "https://i.imgur.com/OOmqNb9.png"
+        },
+        {
+            "name": "Vue Js", 
+            "srcPath": "https://i.imgur.com/38244tF.png"
+        },
+        {
+            "name": "Express Js", 
+            "srcPath": "https://i.imgur.com/XxeuEsX.png"
+        }
+    ],
+    
+    "sgbd": [
+        {
+            "name": "PostgreSQL", 
+            "srcPath": "https://i.imgur.com/6hJrHx6.png"
+        },
+        {
+            "name": "MongoDB",
+            "srcPath": "https://i.imgur.com/3kgHVM6.png"
+        }
+    ]
+}
