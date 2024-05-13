@@ -44,7 +44,7 @@ const { projects } = projectData;
   display: grid;
   grid-template-areas: "item item";
   align-items: center;
-  column-gap: 5%;
+  column-gap: 20px;
   justify-content: space-evenly;
 }
 

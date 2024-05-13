@@ -46,6 +46,7 @@ const { sgbd } = sgbdData;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding-right: 30px;
   background-image: linear-gradient(var(--color-gradient-dark), var(--color-gradient-light));
   padding-bottom: 1em;
 }
